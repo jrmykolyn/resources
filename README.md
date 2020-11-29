@@ -1,4 +1,11 @@
 # Resources
 
+## Table of Contents
+- [Overview](#overview)
+- [Version Control](#version-control)
+
 ## Overview
 This repository contains links to useful resources on software, programming, workflow, and related material.
+
+## Version Control
+- [How to write commit messages](https://chris.beams.io/posts/git-commit/)
