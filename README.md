@@ -8,4 +8,6 @@
 This repository contains links to useful resources on software, programming, workflow, and related material.
 
 ## Version Control
+- [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Trunk-based Development](https://trunkbaseddevelopment.com/)
 - [How to write commit messages](https://chris.beams.io/posts/git-commit/)
